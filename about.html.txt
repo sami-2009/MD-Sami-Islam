@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About | John Doe</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>About Me</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="projects.html">Projects</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <img src="me.jpg" alt="John Doe" style="max-width:150px; border-radius: 50%;" />
+    <p>Hi! I'm Sami, a student of Laxmipasha Adarsha Vidyalaya. I am starting my journey of making my dream come true from today.</p>
+    <p>My goals:</p>
+    <ul>
+      <li>Build awesome personal projects</li>
+      <li>Learn React and responsive design</li>
+      <li>Contribute to open source</li>
+    </ul>
+  </main>
+  <footer>
+    <p>© 2025 John Doe</p>
+  </footer>
+</body>
+</html>
